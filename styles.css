@@ -1,12 +1,13 @@
 /* using a css style sheet to keep code cleaner */
 body {
     font-family: 'Gill Sans';
-    color:antiquewhite;
-    margin : auto;
+    color: antiquewhite;
+    margin: auto;
     text-align: center;
     background-color: #01012b;
-    
+
 }
+
 h1 {
     /* testing out different ways to center elements on a page */
     text-align: center;
@@ -15,18 +16,22 @@ h1 {
     text-decoration: underline;
     text-decoration-color: antiquewhite;
 }
+
 img {
     height: 250px;
 }
+
 ul {
     /* to remove the bullet point circles  */
-    list-style-type: none; 
+    list-style-type: none;
 }
+
 li {
     text-align: center;
     padding-right: 25px;
 }
+
 p {
     text-align: center;
-    
+
 }
