@@ -1,0 +1,32 @@
+html {
+    background-color: #01012b;
+    
+
+}
+body {
+    font-family: "Lucida Console", Arial, Helvetica, sans-serif;
+    color:antiquewhite;
+    margin : auto;
+    text-align: center;
+    
+}
+h1 {
+    font-family: "Lucida Console", Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 20px;
+    font-size: 40px;
+}
+
+ul {
+    list-style-type: none;
+    
+    
+}
+li {
+    text-align: center;
+    padding-right: 25px;
+}
+p {
+    text-align: center;
+    
+}
