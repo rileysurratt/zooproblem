@@ -8,6 +8,7 @@ body {
     
 }
 h1 {
+    /* testing out different ways to center elements on a page */
     text-align: center;
     padding: 20px;
     font-size: 40px;
